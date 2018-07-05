@@ -1,0 +1,9 @@
+30 May 1999 - Deadland 1.0 beta news:
+
+* Player killing and stealing system
+* Ansi color (Lope's)
+* Trickle blood from wounds
+* New prompt
+* Fixed some bugs
+
+
